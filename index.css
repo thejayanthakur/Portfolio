@@ -1,0 +1,127 @@
+body {
+  background-color: rgb(192, 171, 185);
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/960/590/small/abstract-watercolor-texture-wallpaper-background-free-vector.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#imgm {
+  padding-top: 60px;
+}
+#imgc1 {
+  position: absolute;
+  right: 300px;
+  top: 70px;
+}
+#about {
+  font-family: "Montserrat", sans-serif;
+  color: rgb(255, 202, 133);
+  padding-bottom: 400px;
+}
+#imgc2 {
+  position: absolute;
+  left: 350px;
+  bottom: 170px;
+}
+
+.profile {
+  padding-top: 50px;
+}
+.computerimage {
+  /* width: 25%; */
+  /* border-radius: 50%; */
+  float: left;
+  margin-right: 20px;
+}
+.computer_image {
+  float: right;
+  margin-left: 20px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+h1,
+h2 {
+  /* padding-top: 10px; */
+  font-weight: 900;
+  margin: 0;
+  color: rgb(0, 6, 48);
+}
+hr {
+  border: dotted rgb(91, 23, 23) 6px;
+  margin: 100px auto 100px auto;
+  width: 4%;
+  border-bottom: none;
+  background-color: rgb(225, 203, 141);
+}
+.butt {
+  border-radius: 8px;
+  background-color: rgb(215, 152, 5);
+  padding: 9px;
+  color: rgb(40, 4, 4);
+  margin: 29px;
+  margin-top: 9px;
+}
+.topcontainer {
+  background-color: #000404;
+  /* margin: 0px; */
+  padding-top: 160px;
+  /* padding-bottom: 100px; */
+  /* background-image: url(https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171__480.jpg); */
+  background-image: url("image/img.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 0px 48px;
+  background-size: cover;
+}
+.footer-link {
+  margin: 20px;
+  text-decoration: none;
+}
+.bottom-container {
+  background-color: #b7f3f8;
+  padding: 50px;
+}
+.foot {
+  padding-top: 20px;
+}
+#imgc8 {
+  position: relative;
+  left: 650px;
+  bottom: 90px;
+}
+.pp {
+  font-size: 18px;
+  width: 450px;
+  margin: auto;
+  margin-top: 90px;
+}
+#hello {
+  margin-top: 80px;
+}
+#name {
+  font-size: 5.625rem;
+  font-family: "Tangerine", cursive;
+  text-decoration-color: #ddaee8;
+  color: rgb(255, 148, 9);
+  /* position: relative; */
+  /* margin: 20px; */
+}
+#touch {
+  color: #b7f3f8;
+  margin-bottom: 40px;
+}
+.ps {
+  color: #b7f3f8;
+  font-size: 2.5rem;
+}
+#imgc9 {
+  position: relative;
+  left: 700px;
+  bottom: 100px;
+}
